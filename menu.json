@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "name": "Browse Catalogs",
+            "priority": 1,
+            "action": "bin/okstore.sh browse"
+        },
+        {
+            "name": "Search Books",
+            "priority": 2,
+            "action": "bin/okstore.sh search"
+        },
+        {
+            "name": "Download Queue",
+            "priority": 3,
+            "action": "bin/okstore.sh queue"
+        },
+        {
+            "name": "Settings",
+            "priority": 4,
+            "action": "bin/okstore.sh settings"
+        }
+    ]
+}
