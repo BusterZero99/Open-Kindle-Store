@@ -13,8 +13,7 @@ DOWNLOAD_DIR="/mnt/us/documents"
 DEFAULT_CATALOGS="Project Gutenberg|https://m.gutenberg.org/ebooks.opds/
 Standard Ebooks|https://standardebooks.org/feeds/opds/
 Feedbooks Public Domain|http://www.feedbooks.com/publicdomain/catalog.opds
-ManyBooks|http://manybooks.net/opds/index.php
-Gallica|https://gallica.bnf.fr/opds"
+ManyBooks|http://manybooks.net/opds/index.php"
 
 # Initialize directories and files
 init_store() {
