@@ -16,7 +16,7 @@ Based on the OPDS catalog system
 
 ## Installation
 
-1. Copy the entire `Open_Kindle_Store` folder to `/mnt/us/extensions/`
+1. Copy the entire releas to a folder called `Open_Kindle_Store` and put that into `/mnt/us/extensions/`
 2. The app will appear in the KUAL
 
 ## Usage
