@@ -88,3 +88,8 @@ Your Catalog Name|https://example.com/opds/catalog.xml
 
 - Simplified UI using Kindle's e-ink display
 - No advanced features like facets, borrowing, or streaming
+
+## TODO
+
+- Make it look like the original Kindle Store UI
+- Make it be better?
