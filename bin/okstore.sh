@@ -3,7 +3,7 @@
 # Open Kindle Store - OPDS Catalog Browser
 
 # Configuration
-CONFIG_DIR="/mnt/us/extensions/okstore"
+CONFIG_DIR="/mnt/us/extensions/Open_Kindle_Store"
 CATALOGS_FILE="$CONFIG_DIR/catalogs.txt"
 QUEUE_FILE="$CONFIG_DIR/queue.txt"
 SETTINGS_FILE="$CONFIG_DIR/settings.txt"
