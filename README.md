@@ -88,7 +88,3 @@ Your Catalog Name|https://example.com/opds/catalog.xml
 
 - Simplified UI using Kindle's e-ink display
 - No advanced features like facets, borrowing, or streaming
-
-## License
-
-This software is provided as-is for non-commercial use.
